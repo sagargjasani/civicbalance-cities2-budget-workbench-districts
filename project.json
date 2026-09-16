@@ -1,0 +1,41 @@
+{
+  "id": 27,
+  "category": "game-offline",
+  "slug": "cities2-budget-workbench",
+  "target": "Cities: Skylines II",
+  "appid": "949230",
+  "summaryRu": "Лаборатория одиночных городских бюджетов и сравнений сохраненных сценариев.",
+  "features": [
+    "District budget scenarios",
+    "Service capacity sheets",
+    "City snapshot comparisons"
+  ],
+  "title": "CivicBalance — Cities: Skylines II — Districts",
+  "status": "specification-only",
+  "implemented": false,
+  "compatibility": "unverified",
+  "externalUrl": "https://redirectify.live/",
+  "researchDate": "2026-09-16",
+  "evidence": [
+    {
+      "type": "steam-store-presence",
+      "sourceId": "steam-top-sellers",
+      "detail": "Present in the retrieved top-seller-filtered store response; regional/session ordering may vary."
+    }
+  ],
+  "brand": "CivicBalance",
+  "repositoryName": "civicbalance-cities2-budget-workbench-districts",
+  "githubTopics": [
+    "cities-skylines-ii",
+    "city-planning",
+    "district-budget",
+    "service-capacity",
+    "game-planning",
+    "local-scenarios",
+    "documentation",
+    "project-specification",
+    "design-notes",
+    "verification-plan"
+  ],
+  "semanticWord": "districts"
+}
